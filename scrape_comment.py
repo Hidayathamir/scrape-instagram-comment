@@ -1,4 +1,4 @@
-# download Chromeriver: https://chromedriver.chromium.org/downloads
+# download Chromedriver: https://chromedriver.chromium.org/downloads
 
 import re
 import pandas as pd
